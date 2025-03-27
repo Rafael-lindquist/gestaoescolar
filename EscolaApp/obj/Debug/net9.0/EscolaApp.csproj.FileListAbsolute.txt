@@ -1,0 +1,14 @@
+C:\Users\rafae\Desktop\ESCOLAAPP\EscolaApp\bin\Debug\net9.0\EscolaApp.exe
+C:\Users\rafae\Desktop\ESCOLAAPP\EscolaApp\bin\Debug\net9.0\EscolaApp.deps.json
+C:\Users\rafae\Desktop\ESCOLAAPP\EscolaApp\bin\Debug\net9.0\EscolaApp.runtimeconfig.json
+C:\Users\rafae\Desktop\ESCOLAAPP\EscolaApp\bin\Debug\net9.0\EscolaApp.dll
+C:\Users\rafae\Desktop\ESCOLAAPP\EscolaApp\bin\Debug\net9.0\EscolaApp.pdb
+C:\Users\rafae\Desktop\ESCOLAAPP\EscolaApp\obj\Debug\net9.0\EscolaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\Desktop\ESCOLAAPP\EscolaApp\obj\Debug\net9.0\EscolaApp.AssemblyInfoInputs.cache
+C:\Users\rafae\Desktop\ESCOLAAPP\EscolaApp\obj\Debug\net9.0\EscolaApp.AssemblyInfo.cs
+C:\Users\rafae\Desktop\ESCOLAAPP\EscolaApp\obj\Debug\net9.0\EscolaApp.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Desktop\ESCOLAAPP\EscolaApp\obj\Debug\net9.0\EscolaApp.dll
+C:\Users\rafae\Desktop\ESCOLAAPP\EscolaApp\obj\Debug\net9.0\refint\EscolaApp.dll
+C:\Users\rafae\Desktop\ESCOLAAPP\EscolaApp\obj\Debug\net9.0\EscolaApp.pdb
+C:\Users\rafae\Desktop\ESCOLAAPP\EscolaApp\obj\Debug\net9.0\EscolaApp.genruntimeconfig.cache
+C:\Users\rafae\Desktop\ESCOLAAPP\EscolaApp\obj\Debug\net9.0\ref\EscolaApp.dll
