@@ -12,3 +12,4 @@ C:\Users\rafae\Desktop\ESCOLAAPP\EscolaApp\obj\Debug\net9.0\refint\EscolaApp.dll
 C:\Users\rafae\Desktop\ESCOLAAPP\EscolaApp\obj\Debug\net9.0\EscolaApp.pdb
 C:\Users\rafae\Desktop\ESCOLAAPP\EscolaApp\obj\Debug\net9.0\EscolaApp.genruntimeconfig.cache
 C:\Users\rafae\Desktop\ESCOLAAPP\EscolaApp\obj\Debug\net9.0\ref\EscolaApp.dll
+C:\Users\rafae\Desktop\ESCOLAAPP\EscolaApp\obj\Debug\net9.0\EscolaApp.sourcelink.json
